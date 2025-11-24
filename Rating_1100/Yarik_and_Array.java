@@ -43,3 +43,6 @@ public class Yarik_and_Array {
         }
     }
 }
+
+
+//->  https://codeforces.com/problemset/problem/1899/C
