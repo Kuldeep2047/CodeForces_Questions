@@ -1,7 +1,5 @@
 import java.util.*;
 
-//-> https://codeforces.com/problemset/problem/1610/B
-
 public class Kalindrome_Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -58,3 +56,6 @@ public class Kalindrome_Array {
 
     }
 }
+
+
+//-> https://codeforces.com/problemset/problem/1610/B
